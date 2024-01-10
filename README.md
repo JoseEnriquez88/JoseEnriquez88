@@ -3,7 +3,7 @@
 
 ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-🙋‍♂️Soy un entusiasta del desarrollo web con habilidades sólidas en HTML, CSS y JavaScript, lo que me permite crear interfaces atractivas. También tengo experiencia en el desarrollo de aplicaciones web utilizando React y Redux en el frontend, y utilizo Express en el backend junto con bases de datos relacionales como SQL y PostgreSQL.<br><br>🚀Siempre estoy buscando oportunidades para expandir mis conocimientos y aprender nuevas tecnologías para mantenerme actualizado en este campo en constante evolución. Mi enfoque en el aprendizaje continuo y mi entusiasmo me permiten contribuir a proyectos innovadores de desarrollo web.
+🙋‍♂️Soy un desarrollador web con habilidades sólidas en HTML, CSS y JavaScript, lo que me permite crear interfaces atractivas. También tengo experiencia en el desarrollo de aplicaciones web utilizando React y Redux en el frontend, y utilizo Express en el backend junto con bases de datos relacionales como SQL y PostgreSQL.<br><br>🚀Siempre estoy buscando oportunidades para expandir mis conocimientos y aprender nuevas tecnologías para mantenerme actualizado en este campo en constante evolución. Mi enfoque en el aprendizaje continuo y mi entusiasmo me permiten contribuir a proyectos innovadores de desarrollo web.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseenriquez80) 
