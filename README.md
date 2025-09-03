@@ -13,5 +13,5 @@ I'm a full stack developer with strong skills in HTML5, CSS3, TailwindCSS, JavaS
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=JoseEnriquez88&theme=catppuccin_mocha&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 ![Uploading github-contribution-grid-snake.svg…]()
 
-
+![Snake animation](https://github.com/WandaCatellani/WandaCatellani/blob/output/github-contribution-grid-snake.svg)
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
