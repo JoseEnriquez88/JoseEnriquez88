@@ -1,6 +1,5 @@
 # 💫 About Me:
-I'm a full stack developer with strong skills in HTML5, CSS3, TailwindCSS, JavaScript and TypeScript, allowing me to create appealing interfaces. I also have experience in developing web applications using React, NextJS and Redux on the frontend, and I use Express in the backend along with relational databases like SQL and PostgreSQL.<br><br>I'm always seeking opportunities to expand my knowledge and learn new technologies to stay up-to-date in this rapidly evolving field. My focus on continuous learning and enthusiasm enable me to contribute to innovative web development projects.
-
+I am a fullstack developer with experience in React, Next.js, Node.js, Express, MongoDB and PostgreSQL working in agile environments (Scrum) and multidisciplinary teams. I specialize in building functional, scalable solutions with clean code. Driven by efficiency and continuous learning.<br><br>I build digital systems that are clear, scalable, and reliable. I turn complex processes into solutions that deliver real value for businesses and users. My work is driven by quality, performance, and clean architecture, always focused on results that create impact and sustainable growth. I stand out by combining technical vision with strategic goals, ensuring projects are solid and ready to evolve.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseenriquez80) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eenriquez.jose@gmail.com) 
