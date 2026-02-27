@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Jose — a full-stack developer focused on building production-ready web applications. <br><br>I’ve worked on e-commerce platforms, admin dashboards, and internal business tools. I enjoy owning features end to end, from database design and APIs to responsive UI and deployment.
+Hi, I’m Jose, a fullstack developer focused on building production-ready web applications. <br><br>I’ve worked on e-commerce platforms, admin dashboards, and internal business tools. I enjoy owning features end to end, from database design and APIs to responsive UI and deployment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseenriquez80) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eenriquez.jose@gmail.com) 
