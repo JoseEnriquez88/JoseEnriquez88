@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am a fullstack developer with experience in React, Next.js, Node.js, Express, MongoDB and PostgreSQL working in agile environments (Scrum) and multidisciplinary teams. I specialize in building functional, scalable solutions with clean code. Driven by efficiency and continuous learning.<br><br>I build digital systems that are clear, scalable, and reliable. I turn complex processes into solutions that deliver real value for businesses and users. My work is driven by quality, performance, and clean architecture, always focused on results that create impact and sustainable growth. I stand out by combining technical vision with strategic goals, ensuring projects are solid and ready to evolve.
+Hi, I’m Jose — a full-stack developer focused on building production-ready web applications. <br><br>I’ve worked on e-commerce platforms, admin dashboards, and internal business tools. I enjoy owning features end to end, from database design and APIs to responsive UI and deployment.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseenriquez80) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eenriquez.jose@gmail.com) 
