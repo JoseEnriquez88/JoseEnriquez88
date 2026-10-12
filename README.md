@@ -1,5 +1,5 @@
 # 👋 About Me:
-Hi, I'm Jose, a Full-Stack Developer with 3+ years of experience building and shipping production web applications for clients in Argentina and Europe. I've worked on real estate platforms, e-commerce, admin dashboards, and internal business tools, collaborating with cross-functional teams in agile, remote environments.
+Hi, I’m Jose, a Full-Stack Developer building and shipping production web applications for clients in Argentina and Europe. I’ve worked on real estate platforms, e-commerce, admin dashboards, and internal business tools, collaborating with cross-functional teams in agile, remote environments.
 
 I'm comfortable owning features end to end: from database design and APIs to responsive UI and deployment with Docker. I care about clean code, performance, and systems that stay maintainable as they grow.
 
