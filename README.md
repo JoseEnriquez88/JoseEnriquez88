@@ -1,5 +1,9 @@
 # 💫 About Me:
-Hi, I’m Jose, a Full-stack developer with experience building and shipping production web applications. I’ve worked on e-commerce, admin dashboards, and internal business tools, collaborating with cross-functional teams in agile environments. </br><br>I'm comfortable owning features end to end, from database design and APIs to responsive UI and deployment. I care about clean code, performance, and systems that stay maintainable as they grow.<br>
+Hi, I'm Jose, a Full-Stack Developer with 3+ years of experience building and shipping production web applications for clients in Argentina and Europe. I've worked on real estate platforms, e-commerce, admin dashboards, and internal business tools, collaborating with cross-functional teams in agile, remote environments.
+
+I'm comfortable owning features end to end: from database design and APIs to responsive UI and deployment with Docker. I care about clean code, performance, and systems that stay maintainable as they grow.
+
+📍 Based in Argentina · 🌎 Open to remote opportunities
 
 # 🌐 Socials: 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/joseenriquez80) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eenriquez.jose@gmail.com) 
